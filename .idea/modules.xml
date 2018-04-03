@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiagnosticsSDK-0.1.116/DiagnosticsSDK-0.1.116.iml" filepath="$PROJECT_DIR$/DiagnosticsSDK-0.1.116/DiagnosticsSDK-0.1.116.iml" />
       <module fileurl="file://$PROJECT_DIR$/POC_Gradle.iml" filepath="$PROJECT_DIR$/POC_Gradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymathlib/mymathlib.iml" filepath="$PROJECT_DIR$/mymathlib/mymathlib.iml" />

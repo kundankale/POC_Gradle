@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DiagnosticsSDK-0.1.116" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mymathlib" />
           </set>

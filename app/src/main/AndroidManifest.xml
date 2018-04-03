@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+
+        </activity>
+        <activity android:name=".TouchTestGridActivity" />
+        <activity android:name=".VibrationActivity"></activity>
+        <activity android:name=".SpeakerMicrophoneActivity"></activity>
+        <activity android:name=".RegisterActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

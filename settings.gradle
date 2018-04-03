@@ -1,1 +1,1 @@
-include ':app', ':mymathlib'
+include ':app', ':mymathlib', ':DiagnosticsSDK-0.1.116'
